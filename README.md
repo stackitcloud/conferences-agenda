@@ -87,11 +87,7 @@ agenda.
 * 13-14: [GeeCon Prague](https://www.geecon.org/) - Prague (Czechia)
 * 18-21: [JCon](https://jcon.one/) - Germany or Virtual
 * 20-21: [DevFest Nantes](https://devfest.gdgnantes.com/) - Nantes (France)
-* 
-
-25-28: [KubeCon North America + CloudNativeCon](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2022/)
-
-- Detroit (USA)
+* 25-28: [KubeCon North America + CloudNativeCon](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2022/) - Detroit (USA)
 
 ### November
 
