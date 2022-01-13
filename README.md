@@ -74,6 +74,7 @@ agenda.
 
 ### July
 
+* 07: [Java Forum Stuttgart](https://www.java-forum-stuttgart.de) <a href="https://www.java-forum-stuttgart.de/call-for-papers/"><img alt="CFP Java Forum Stuttgart" src="https://img.shields.io/static/v1?label=CFP&message=%3E14-02-2022&color=green"> </a>
 * 18-20: [JBCNConf](https://www.jbcnconf.com/2022/) - Barcelona (Spain)
 
 ### August
