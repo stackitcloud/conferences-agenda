@@ -81,6 +81,10 @@ agenda.
 * 22-28: [FOSS4G](https://2022.foss4g.org/) - Firenze (Italy)
 * 29-1: [VMworld](https://www.vmworld.com/en/us/index.html) - San Francisco, USA
 
+### September
+
+* 5-7: [ContainerDays 2022](https://www.containerdays.io/) - Hamburg (Germany) + Virtual
+
 ### October
 
 * 12-14: [Google Cloud Next](https://cloud.withgoogle.com/next/sf/) - Virtual
