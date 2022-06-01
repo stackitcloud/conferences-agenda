@@ -63,6 +63,8 @@ agenda.
 
 * 3-4: [Kubernetes Community Days Chennai 2022](http://www.kcdchennai.in) - Chennai (India) +
   Virtual <a href="http://www.kcdchennai.in/"><img alt="CFP Kubernetes Community Days Chennai 2022" src="https://img.shields.io/static/v1?label=CFP&message=16-Feb-2022%20to%2031-Mar-2022&color=green"> </a>
+* 7-9: [OpenInfra Summit Berlin](https://openinfra.dev/summit/) - Berlin (Germany) + 
+  partly Virtual
 * 7-8: [cdCon](https://events.linuxfoundation.org/cdcon/) - Austin (USA) + Virtual
 * 16-17: [SymfonyWorld Virtual 2022 Summer Edition](https://live.symfony.com/2022-world-summer/) -
   Virtual <a href="https://live.symfony.com/2022-world-summer/cfp"><img alt="CFP SymfonyWorld Virtual 2022 Summer Edition" src="https://img.shields.io/static/v1?label=CFP&message=%3E14-02-2022&color=green"> </a>
