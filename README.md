@@ -85,6 +85,14 @@ agenda.
 ### September
 
 * 5-7: [ContainerDays 2022](https://www.containerdays.io/) - Hamburg (Germany) + Virtual
+* 12-14: [KVM Forum](https://events.linuxfoundation.org/kvm-forum/) - Dublin (Ireland) + virtual
+* 12-14: [Linux Plumbers Conference](https://lpc.events/) - Dublin (Ireland) + virtual
+* 13-16: [Open Source Summit Europe](https://events.linuxfoundation.org/open-source-summit-europe/) - Dublin (Ireland) + virtual
+  * 13-16: [LinuxCon Europe](https://events.linuxfoundation.org/open-source-summit-europe/about/linuxcon/) - Dublin (Ireland) + virtual
+  * 13-16: [CloudOpen Europe](https://events.linuxfoundation.org/open-source-summit-europe/about/cloudopen/) - Dublin (Ireland) + virtual
+  * 13-16: [ContainerCon Europe](https://events.linuxfoundation.org/open-source-summit-europe/about/containercon/) - Dublin (Ireland) + virtual
+  * See Open Source Summit page for additional events
+* 15-16: [Linux Security Summit Europe](https://events.linuxfoundation.org/linux-security-summit-europe/) - Dublin (Ireland) + virtual
 
 ### October
 
@@ -92,6 +100,7 @@ agenda.
 * 13-14: [GeeCon Prague](https://www.geecon.org/) - Prague (Czechia)
 * 18-21: [JCon](https://jcon.one/) - Germany or Virtual
 * 20-21: [DevFest Nantes](https://devfest.gdgnantes.com/) - Nantes (France)
+* 25-27: [SREcon EMEA](https://www.usenix.org/conference/srecon22emea) - Amsterdam (Netherlands) & remote. Schedule available by end of August
 * 25-28: [KubeCon North America + CloudNativeCon](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2022/) - Detroit (USA)
 
 ### November
