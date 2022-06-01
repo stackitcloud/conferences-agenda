@@ -78,6 +78,7 @@ agenda.
 
 * 07: [Java Forum Stuttgart](https://www.java-forum-stuttgart.de) <a href="https://www.java-forum-stuttgart.de/call-for-papers/"><img alt="CFP Java Forum Stuttgart" src="https://img.shields.io/static/v1?label=CFP&message=%3E14-02-2022&color=green"> </a>
 * 18-20: [JBCNConf](https://www.jbcnconf.com/2022/) - Barcelona (Spain)
+* 19-20: [stackconf](https://stackconf.eu/) - Berlin (Germany) - Open Source Infrastructure Conference (Former OSDC)
 
 ### August
 
@@ -110,4 +111,5 @@ agenda.
 * 2-4: [Microsoft Ignite](https://www.microsoft.com/en-us/ignite) - Virtual
 * 7-11: [Devoxx Belgium](https://devoxx.be/) - Antwerp (Belgium)
 * 7-10: [VMworld](https://www.vmworld.com/en/us/index.html) - Barcelona, Spain
+* 14-16: [OSMC - Open Source Monitoring Conference](https://osmc.de/) - Nuremberg, Germany
 * 29-3: [AWS re:Invent](https://reinvent.awsevents.com/) - Las Vegas, USA
