@@ -58,6 +58,7 @@ agenda.
 * 17-20: [GitOpsCon Europe 2022](https://events.linuxfoundation.org/gitopscon-europe/) - Valencia (
   Spain) <a href="https://events.linuxfoundation.org/gitopscon-europe/program/cfp/"><img alt="CFP GitOpsCon" src="https://img.shields.io/static/v1?label=CFP&message=05-Jan-2022%20to%2014-Feb-2022&color=green"> </a>
 * 19-22: [Java Day Istanbul](https://www.javaday.istanbul/) - Antalya (Turkey)
+* 19-22: [GPN](https://entropia.de/GPN) - Karlsruhe (Germany)
 
 ### June
 
@@ -78,6 +79,7 @@ agenda.
 
 * 07: [Java Forum Stuttgart](https://www.java-forum-stuttgart.de) <a href="https://www.java-forum-stuttgart.de/call-for-papers/"><img alt="CFP Java Forum Stuttgart" src="https://img.shields.io/static/v1?label=CFP&message=%3E14-02-2022&color=green"> </a>
 * 18-20: [JBCNConf](https://www.jbcnconf.com/2022/) - Barcelona (Spain)
+* 22-26: [May Contain Hackers](https://mch2022.org/#/) - Zeewolde (Netherlands)
 
 ### August
 
@@ -111,3 +113,6 @@ agenda.
 * 7-11: [Devoxx Belgium](https://devoxx.be/) - Antwerp (Belgium)
 * 7-10: [VMworld](https://www.vmworld.com/en/us/index.html) - Barcelona, Spain
 * 29-3: [AWS re:Invent](https://reinvent.awsevents.com/) - Las Vegas, USA
+
+### December
+* 27-31: [Chaos Communication Congress](https://events.ccc.de/congress/) - Hamburg (Germany)
